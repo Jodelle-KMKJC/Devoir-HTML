@@ -1,5 +1,5 @@
  # balise html
- '''
+
 
  **-<img src="" alt= ""> permet d'inserer une image dans une page en donnant sa  description**
  **-<head> contient les informations sur le document**
@@ -48,7 +48,6 @@
 **<source> Source de media**
 **-<track> Piste de sous titres**
 **-<canvas> Zone de dessin**
-**-<svg> Graphiques vectoriels**
- '''
+**-<svg> ssGraphiques vectoriels**
 
 
