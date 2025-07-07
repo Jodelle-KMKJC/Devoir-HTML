@@ -1,4 +1,4 @@
- # balise htmlVoici 50 balises HTML courantes et leurs rôles :
+ # balise html
 
     <html> : Racine d'un document HTML
     <head> : En-tête du document, contient les métadonnées
@@ -50,3 +50,4 @@
     <canvas> : Zone de dessin
     <svg> : Graphiques vectoriels
     <iframe> : Cadre intégré (pour intégrer un autre document HTML)
+   
