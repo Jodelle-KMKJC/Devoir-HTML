@@ -36,7 +36,6 @@
     <legend> : Légende de groupe de champs de saisie
     <nav> : Navigation
     <header> : En-tête de section
-    <footer> : Pied de page
     <main> : Contenu principal
     <section> : Section de contenu
     <article> : Article
@@ -46,8 +45,9 @@
     <audio> : Contenu audio
     <video> : Contenu vidéo
     <source> : Source de contenu multimédia
-    <track> : Piste de sous-titres
-    <canvas> : Zone de dessin
     <svg> : Graphiques vectoriels
     <iframe> : Cadre intégré (pour intégrer un autre document HTML)
+    <dl> :definition de liste
+    <dt> :defiition des terme
+    <dd> :definition en soi
    
